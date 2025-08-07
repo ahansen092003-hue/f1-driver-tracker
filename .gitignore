@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Don't track video files
+*.mp4
+*.mov
+data/sample_videos/
+
 # C extensions
 *.so
 
