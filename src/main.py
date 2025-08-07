@@ -9,4 +9,6 @@ else:
     print("Frame Rate : ",fps,"frames per second") 
     frame_count = vid_capture.get(7)
     print("Frame count : ", frame_count)
+    
 
+vid_capture.release()
