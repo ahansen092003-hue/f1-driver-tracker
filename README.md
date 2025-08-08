@@ -10,5 +10,7 @@ Identify cars in race footage
 
 ## Tech Stack (in progress)
 Python
+
 OpenCV
+
 PostgreSQL
