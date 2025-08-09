@@ -1,12 +1,18 @@
+# YOLO weights
+*.pt
+
+# Video and Photo files
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+data/sample_videos/
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-
-# Don't track video files
-*.mp4
-*.mov
-data/sample_videos/
 
 # C extensions
 *.so
