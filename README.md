@@ -13,4 +13,10 @@ Python
 
 OpenCV
 
-PostgreSQL
+Ultralytics YOLOv8
+
+PyTorch
+
+Supabase
+
+Git

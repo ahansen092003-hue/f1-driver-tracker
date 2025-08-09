@@ -1,6 +1,5 @@
 from ultralytics import YOLO
 import cv2
-import os
 
 img_input = "data/sample_frame.jpg"
 img_output = "outputs/sample_frame_output.jpg"
